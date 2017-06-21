@@ -4,3 +4,4 @@ For this project, I used a synthetic dataset that was created based on UCI's Mad
 
 My approach for this project was to a) use statistical techniques to reduce the number of features in the dataset and b) build a predictive model based on this smaller subset of features. I built model pipelines using GridSearch, RandomForestClassifier, SelectKBest, and Logistic Regression to get the best accuracy score I could.
 
+This was my third project for the Data Science Immersive prorgram at General Assembly.
